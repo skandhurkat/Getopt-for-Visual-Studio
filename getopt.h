@@ -1,7 +1,6 @@
 #ifndef __GETOPT_H__
 /**
  * DISCLAIMER
- * This file has no copyright assigned and is placed in the Public Domain.
  * This file is part of the mingw-w64 runtime package.
  *
  * The mingw-w64 runtime package and its code is distributed in the hope that it 
